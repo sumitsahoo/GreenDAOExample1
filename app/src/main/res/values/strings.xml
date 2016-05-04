@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreenDAOExample</string>
+    <string name="action_settings">Delete All</string>
+</resources>
